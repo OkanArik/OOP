@@ -25,7 +25,17 @@
 
 - NYP sınıflar ve nesneler üzerine kurulmuştur, "Sınıflar" bir problemi soyutlamak ve genelleştirmek için kullanılan yapılardır veya kılavuzlardır(şablonlardır). Sınıflar, bir nesneye ait tüm özellikleri temsil eder. Bu özellikler nesnenin ne tür nitelikleri ve davranışları olacağını belirler.
 
+- Gerçek hayat problemleri sınıf şablonları kullanılarak bilgisayar ortamına daha kolay ve anlaşılabilir biçimde aktarılabilir.
+
 - Mesela "Araba" bir sınıftır. Arabalara ait nitelikler renk, hız, vites sayısı, yakıt türü vb. bir sürü nitelik olabilir. Park sensörü, oto pilot, hız sabitleme gibi arabaların kendilerine özel davranışları da olabilir. Bir araba üretilirken, bir yapım kılavuzuna ihtiyaç vardır. Programlama da bu kılavuzlara "Sınıf (Class)" denir.
 
 ![Ekran görüntüsü 2022-02-19 014200](https://user-images.githubusercontent.com/89224500/154770713-8b995bbd-45e8-47ea-b3bb-2c02c577f384.png)
 
+
+# Modelleme 
+
+- Modelleme , insanın problem çözmek üzere eskiden beri kullandığı bir yöntemdir. Büyükçe bir problemin tamamını zihinde canlandırıp çözmeye çalışmak yerine , oluşturulacak model ya da modeller üzerinde hedef sistemin görünüşü , davranışı ya da bazı durumlarda verdiği tepkiler gözlemlenebilir.
+
+---
+- `Biz sınıflar(classes) ve nesneler ile biligsayar ortamında bir modelleme yapıyoruz. Bu modelleme sayesinde de programlarımızı oluşturuyoruz.Programlarımızda problemlerimizi çözen araçlardır.`
+---
