@@ -64,6 +64,9 @@
 - Bu örnekteki sayfaSayisi değişkenini koruma ve anlamsızlaşmasını önlemek için Nesne Yönelimli Programlamanın ilkesi olan Encapsulation (Sarmalama) ilkesinden yararlandık. Bir sınıfa ait değişkenlerimizi Getter ve Setter metotları yardımı ile sarmaladık ve istenilen şartlara göre oluşmasını sağladık.
 
 
+![11](https://user-images.githubusercontent.com/89224500/154816125-4f08599e-bd9b-4d26-a7d0-9bd3f87c3af2.png)
+
+
 
 
 
