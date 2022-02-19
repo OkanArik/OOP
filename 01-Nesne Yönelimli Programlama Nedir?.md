@@ -1,8 +1,8 @@
 # OOP nedir?
 
-- OOP , Object Oriented Programming kelimelerinin baş harflerinden oluşmaktadır. Türkçesi nesne yönelimli programlamadır.
+- `OOP` , `Object Oriented Programming` kelimelerinin baş harflerinden oluşmaktadır. Türkçesi `nesne yönelimli programlamadır.`
 
-- Nesne yönelimli programlama bir programlama paradigmasıdır yani programlama modelidir.
+- Nesne yönelimli programlama bir `programlama paradigmasıdır` yani programlama modelidir.
  
 - Nesne Yönelimli Programlama (Object Oriented Programming), sınıflar ve nesneler kavramına dayanan bir programlama yaklaşımıdır. Bu yaklaşımın amacı, ihtiyaç duyulan programı daha küçük parçalara bölerek, yönetilebilir ve yeniden kullanılabilir hale getirmektir. Her küçük parçanın kendine ait özelliği, verileri ve diğer küçük parçalarla nasıl iletişim kuracağı bilgileri bulunur.
 
@@ -18,3 +18,5 @@
 - NYP, daha az kod ve daha kısa geliştirme süresiyle, yeniden kullanılabilir uygulamalar oluşturmayı mümkün kılar.
 - NYP, yapıya daha sonradan yeni özellikler ekleyerek genişletilebilirlik sağlar.
 - NYP, problemleri gerçek hayattaki işlemlere göre modeller.
+
+- `Programlarımız problemlerimizi çözen araçlardır ve bu programlarıda biz yazılım geliştiriciler yazarız.Bilgisayara bir problemi nasıl çözeceğini uygun bir programlama dili seçerek ve o programlama dilinin syntax'ına uyumlu şekilde yazarak anlatırız ve bu şekilde programlar ortaya çıkar.`
